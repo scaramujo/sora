@@ -1,0 +1,80 @@
+@font-face {font-family: sora; src: url(../fonte/Bakemono-Stereo-Light-trial.ttf);}
+
+.logo {position: absolute; left: 40px; top: 11px;
+        width: 100px;}
+
+ nav {background-color:#9584bd;
+            text-decoration: none;
+            color: #180445;
+            text-align: right;
+            position: relative;
+            padding: 40px;
+            top: 0px;
+            left: 0px;
+            right: 0px;}
+
+.home {font-family: sora;
+                background-color: #b6aad1;
+                padding: 15px;
+                border-radius: 6px;
+                text-decoration-color: none;
+                text-decoration: none;
+                font-size: 22px;}
+
+ .desenhos {font-family: sora;
+            background-color: #b6aad1;
+            padding: 15px;
+            border-radius: 6px;
+            text-decoration-color: none;
+            text-decoration: none;
+            font-size: 22px;}
+
+.semestre {font-family: sora;
+           background-color: #b6aad1;
+           padding: 15px;
+           border-radius: 6px;
+           text-decoration-color: none;
+           text-decoration: none;
+           font-size: 22px;}
+
+ .semestree {font-family: sora;
+             background-color: #b6aad1;
+             padding: 15px;
+             border-radius: 6px;
+             text-decoration-color: none;
+             text-decoration: none;
+             font-size: 22px;}
+
+
+body {background-color: #b6aad1;}
+
+p {text-align: relative;
+        position: relative;
+        width: 450px;
+        font-family: sora;
+        font-size: 22px;
+        left: 100px;}
+
+.eu {position: relative; left: 800px; bottom: 335px; border-radius: 20px;}
+.primeiro {position: relative; left: 600px; bottom: 100px; border-radius: 20px;}
+.segundo {position: relative; left: 600px; bottom: 100px; border-radius: 20px;}
+.desenho {position: relative; left: 600px; bottom: 100px; border-radius: 20px;}
+
+footer {background-color: #9584bd;
+        font-family: sora;
+        font-size: medium;
+            text-align: center;}
+    footer a {margin: 15px;}
+
+
+.eu {transition: 1s;opacity: 1;}
+.eu:hover {opacity: 0.3;}
+
+.desenho {transition: 1s;opacity: 1;}
+.desenho:hover {opacity: 0.3;}
+
+.primeiro {transition: 1s;opacity: 1;}
+.primeiro:hover {opacity: 0.3;}
+
+.segundo {transition: 1s;opacity: 1;}
+.segundo:hover {opacity: 0.3;}
